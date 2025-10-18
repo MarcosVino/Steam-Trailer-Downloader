@@ -1,0 +1,5 @@
+{
+  "name": "Steam Trailer Downloader",
+  "description": "An application that takes a Steam game URL, fetches game details and its trailer, and uses Gemini to generate a concise summary of the game.",
+  "requestFramePermissions": []
+}
